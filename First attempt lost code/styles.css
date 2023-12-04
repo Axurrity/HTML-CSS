@@ -66,10 +66,6 @@ a {
 /*cake page */
 
 
-body{
-    background-color: purple;
-}
-
 .cake-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
@@ -77,4 +73,10 @@ body{
     font-size: 25px;
     font-weight: bold;
 
+}
+
+.section-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+     
 }
