@@ -75,10 +75,26 @@ a {
 
 }
 
+.caption {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+
+
+
 .section-one {
     border: 1px solid white;
     background-color: darkslateblue;
      
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .cake-group{
